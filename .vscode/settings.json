@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "afterDelay",
+    "emmet.triggerExpansionOnTab": true
+}
